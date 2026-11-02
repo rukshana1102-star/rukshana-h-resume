@@ -6,7 +6,9 @@ Chennai, India
 
 ## Professional Profile
 
-SAP SD functional professional with 2.8 years of documented SAP SD project experience at Wipro, including SAP SD support for Cardinal Health.
+Professional Profile
+
+SAP SD functional professional with hands-on project experience at Wipro Technologies, including SAP SD support for Cardinal Health.
 
 Currently refreshing SAP S/4HANA Sales knowledge while building practical Generative AI, chatbot, AI-agent and business automation capabilities.
 
@@ -31,6 +33,15 @@ Currently refreshing SAP S/4HANA Sales knowledge while building practical Genera
 
 **Cardinal Health — SAP SD Support Project**  
 03 December 2012 – 10 October 2014
+
+## Certifications & Professional Learning
+
+Google Cloud Gen AI Academy APAC 2026 — Cohort 3
+
+- Issued by: Google Cloud / Hack2Skill
+- Credential: Certificate of Completion
+- Certificate date: 21 September 2026
+- Focus: Generative AI, Cloud Run, building and deploying intelligent agents, and Google Cloud.
 
 ## Current Learning
 
